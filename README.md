@@ -1,6 +1,6 @@
 # Predicting Loan Status
 
-This project will help bank people, to predict the loan status of customers whether they will pay off they their loan or not.
+This project will help bankers to predict the loan status of customers of a bank on the basis of previous data of the customers who have taken loan already..
 
 ### Project description
 The project includes following steps:-
